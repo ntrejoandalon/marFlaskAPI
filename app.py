@@ -24,6 +24,3 @@ def files():
     wcValues.append(val)
     return {"wordCount": val}
 
-
-if __name__ == "__main__":
-    app.run()
